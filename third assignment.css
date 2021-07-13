@@ -1,0 +1,36 @@
+body{
+    background-color: seagreen;
+}
+
+.button{
+    height: 40px;
+    background-color: black;
+    border: 2px solid;
+    color: white;
+    width: 200px;
+    text-align: left;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: x-large;
+}
+
+button.hover{
+    background-color: white;
+    color: black;
+}
+
+.text{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    text-align: center ;
+}
